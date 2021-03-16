@@ -12,6 +12,8 @@
 * windows go1.16.windows-amd64.msi
 * mac m1 go1.16
 
+###Learn Start
+
 >> basic/basic.go
 >
 > 语言结构
@@ -23,3 +25,8 @@
 > 
 > 常量
 > 运算符
+
+>> basic/ConditionLoop.go
+> 
+> 条件语句 [ if elseif else  switch select ]
+> 循环语句 [ for switch]
