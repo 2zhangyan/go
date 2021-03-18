@@ -28,5 +28,11 @@
 
 >> basic/ConditionLoop.go
 > 
-> 条件语句 [ if elseif else  switch select ]
+> 条件语句 [ if; elseif; else; switch; select ]
 > 循环语句 [ for switch]
+
+>> basic/FunScope.go 
+> 
+> 函数 [ 传递类型:传值、传引用 ]
+> 变量作用域
+
