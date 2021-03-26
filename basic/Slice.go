@@ -74,7 +74,7 @@ func printSlice(x []int) {
 
 //切片
 func main() {
-	//definitionSlice()
-	//interceptSlice()
+	definitionSlice()
+	interceptSlice()
 	acSlice()
 }
