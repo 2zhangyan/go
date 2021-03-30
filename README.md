@@ -73,6 +73,16 @@
 > append() 和 copy() 函数
 
 
+>> basic/Range.go
+> 
+> range去求一个slice的和
+> 空白符"_"省略了
+> range 在map的键值对上
+> range也可以用来枚举Unicode字符串
+
+
+
+
 
 
 
