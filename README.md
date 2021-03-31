@@ -80,6 +80,11 @@
 > range 在map的键值对上
 > range也可以用来枚举Unicode字符串
 
+>> basic/Map.go
+> 
+> Map(集合)
+> delete() 函数
+
 
 
 
