@@ -94,5 +94,20 @@
 >
 > 类型转换
 
+>> basic/Interface.go
+> 
+> 接口
+
+>> basic/Error.go
+>
+> 错误信息的输出
+
+>>  basic/Concurrent.go
+> 
+> 并发
+> 通道
+> 通道缓冲区
+> 遍历通道与关闭通道
+
 
 
